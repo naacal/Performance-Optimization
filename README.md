@@ -33,11 +33,3 @@ Installation Instructions
 3. Upload .htaccess file on the folder that  folder is placed, if there is no another htaccess file currently.
    Otherwise, Copy content of Performance-Optimization htaccess file and paste it inside your current htaccess at the beginning of the file.
 4. It's ready. Enjoy it.
-
-
-Bug reports
------------
-Any feedback is appreciated.
-
-Use the issue tracker at github for bug reports:
-http://github.com/naacal/Performance-Optimization/issues
