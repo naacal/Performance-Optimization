@@ -1,4 +1,4 @@
-Performance-Optimization ```
+Performance-Optimization
 -----------------------
 Performance-Optimization is a php program that enhances your website performance using techniques such as minifying, compression, caching, concatenation and embedding.The idea is based on yahoo performace rules (http://developer.yahoo.com/performance/rules.html)
 
